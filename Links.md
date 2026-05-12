@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 13:43 IR
+- 📥 [Hiddify-Windows-Setup-x64.exe](https://github.com/Raminraven/sandbox-do/raw/main/dl/Hiddify-Windows-Setup-x64.exe) `34.8MB`
+
+---
+
+
 ### 📅 2026-05-12 02:42 IR
 - 📥 [file](https://github.com/Raminraven/sandbox-do/raw/main/dl/file) `325KB`
 
