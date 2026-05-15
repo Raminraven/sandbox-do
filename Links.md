@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-15 12:49 IR
+- 📱 [Telegram.apk](https://github.com/Raminraven/sandbox-do/raw/main/dl/Telegram.apk) `77.9MB`
+
+---
+
+
 ### 📅 2026-05-14 11:32 IR
 - 📱 [v2rayNG_2.1.7-fdroid_arm64-v8a.apk](https://github.com/Raminraven/sandbox-do/raw/main/dl/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) `26.8MB`
 
